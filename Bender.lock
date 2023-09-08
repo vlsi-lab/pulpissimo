@@ -159,10 +159,10 @@ packages:
       Git: https://github.com/pulp-platform/L2_tcdm_hybrid_interco.git
     dependencies: []
   pulp_soc:
-    revision: ab00f6cc84504fc7b64ac349e37835965e9e0f9a
+    revision: b77438cd68d6d9ab481dde5a878a1e625a88301a
     version: null
     source:
-      Git: https://github.com/vlsiale/pulp_soc.git
+      Git: https://github.com/vlsi-lab/pulp_soc.git
     dependencies:
     - adv_dbg_if
     - apb
@@ -202,7 +202,7 @@ packages:
     revision: null
     version: null
     source:
-      Path: .bender/git/checkouts/pulp_soc-973a2a7f27e0db4b/./register_interface
+      Path: .bender/git/checkouts/pulp_soc-d57e337a2658708d/./register_interface
     dependencies:
     - axi
     - common_cells
