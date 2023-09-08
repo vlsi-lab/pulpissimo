@@ -3,6 +3,7 @@ xcelium.d/
 xrun.history
 xrun.log
 .bender
+Bender.lock
 work/
 compile.tcl
 working_dir/
