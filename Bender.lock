@@ -203,7 +203,7 @@ packages:
     revision: ~
     version: ~
     source:
-      Path: /home/alessandra.dolmeta/loki_folders/pulpissimo/.bender/git/checkouts/pulp_soc-03507b33b8f35c44/./register_interface
+      Path: /home/alessandra.dolmeta/LOKI/pulpissimo/.bender/git/checkouts/pulp_soc-bf47a5649b9145fe/./register_interface
     dependencies: []
   riscv-dbg:
     revision: 69be5ddc03ea1688c0eab47d6ed9d0e8725beda1
